@@ -6,4 +6,3 @@ Tendremos que completar el código que hay en los archivos basic.js y basic.test
 ### Instrucciones
 - npm install
 - npm test
-
